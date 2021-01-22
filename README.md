@@ -1,6 +1,5 @@
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=joaozangeli&count_private=true&show_icons=true&theme=cobalt" />
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joaozangeli)](https://github.com/joaozangeli/github-readme-stats)
+
 
 
 <!--
