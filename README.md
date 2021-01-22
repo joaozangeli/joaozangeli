@@ -1,5 +1,6 @@
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=joaozangeli&count_private=true&show_icons=true&theme=cobalt" />
+  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaozangeli&langs_count=8&layout=compact&theme=cobalt"/>
 
 <!--
 **joaozangeli/joaozangeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
