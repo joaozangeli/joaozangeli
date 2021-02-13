@@ -1,5 +1,5 @@
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joaozangeli&layout=compact&theme=dracula)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=joaozangeli&layout=compact&theme=dracula)
 
 
 
